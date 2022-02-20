@@ -19,7 +19,8 @@
     "express": "^4.17.1",
     "express-boom": "^3.0.0",
     "express-pino-logger": "^6.0.0",
-    "express-validator": "^6.11.1"
+    "express-validator": "^6.11.1",
+    "kafkajs": "^1.16.0"
   },
   "devDependencies": {
     "eslint": "^7.28.0"
